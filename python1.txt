@@ -11,6 +11,7 @@ ashok is working in tcs
 he is an enginner 
 he lives in tuni 
 he from eg
+<<<<<<< HEAD
 weretretry
 wrweteryrt
 2423534645
@@ -19,5 +20,12 @@ wrweteryrt
 567658
 rwetrey
 
+=======
+fgugcughjfgj
+fgjdtyjgj
+fthtdu65e6r
+>>>>>>> d15c7820b3ddff90c1048cc62a8fd90eabed710c
 
 
+53535
+465454
